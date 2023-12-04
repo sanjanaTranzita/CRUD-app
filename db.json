@@ -18,27 +18,15 @@
   },
   "employees": [
     {
-      "firstName": "Ananya",
-      "lastName": "Gupta",
-      "email": "sanjanaagrawal63@gmail.com",
-      "dob": "2003-12-31T18:30:00.000Z",
-      "gender": "",
-      "education": "Intermediate",
-      "company": "Cargo",
-      "experience": 2,
-      "package": 36,
-      "id": 5
-    },
-    {
       "firstName": "Sanjana",
       "lastName": "Agrawal",
-      "email": "sanjanaagrawal63@gmail.com",
-      "dob": "2023-12-22T18:30:00.000Z",
+      "email": "anj4343@abc.com",
+      "dob": "2003-07-17T18:30:00.000Z",
       "gender": "",
-      "education": "Graduate",
+      "education": "Post Graduate",
       "company": "facebook",
-      "experience": 6,
-      "package": 78,
+      "experience": 10,
+      "package": 8900000,
       "id": 6
     },
     {
@@ -52,6 +40,30 @@
       "experience": 1,
       "package": 350000,
       "id": 7
+    },
+    {
+      "firstName": "abhi",
+      "lastName": "singh",
+      "email": "abhi4567@tra.com",
+      "dob": "2016-02-23T18:30:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "polytechnic",
+      "experience": 3,
+      "package": 89,
+      "id": 8
+    },
+    {
+      "firstName": "asvag",
+      "lastName": "wsgqu",
+      "email": "zhxuas@abc.com",
+      "dob": "2021-05-18T18:30:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "nebduewg",
+      "experience": 4,
+      "package": 456789,
+      "id": 9
     }
   ]
 }
